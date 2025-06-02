@@ -9,6 +9,24 @@ header{
 }
     
 
+.coiso{
+    background-color: #76cdff;
+    color: #76cdff;
+    font-size: x-large;
+}
+
+
+.logo{
+    margin-top: 65px;
+}
+
+
+hr{
+    color: #76cdff;
+    height: 35px;
+}
+
+
 .caixa{
     position: relative;
     width: 940px;
