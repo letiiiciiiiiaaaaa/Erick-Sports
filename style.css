@@ -67,5 +67,22 @@ nav a:hover{
 
 
 ul{
-    margin-left: 15px;
+    margin-left: 1px;
+}
+
+
+.links{
+    font-size: 20px;
+    text-align: left;
+    display: flex;
+    background: #bcbcbc;
+    align-items: center;
+    border-radius: 30px;
+}
+
+
+.links h1{
+    margin-right: 305px;
+    margin-left: 40px;
+    font-family: ;
 }
