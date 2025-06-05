@@ -41,28 +41,18 @@ nav{
 }
 
 
-#login, #carrinho, #mais{
-    margin-right: 15px;
-}
-
-
 nav li{
     display: inline;
 }
 
 
 nav a{
-    text-transform: uppercase;
-    color: #000000;
-    font-weight: bold;
-    font-size: 22px;
     text-decoration: none;
 }
 
-
-nav a:hover{
-    color: #C78C19;
-    text-decoration: underline;
+ 
+#login, #carrinho, #mais{
+    margin-right: 15px;
 }
 
 
@@ -71,16 +61,39 @@ ul{
 }
 
 
+a{
+    text-decoration: none;
+    color: #000000;
+}
+
+
 .links{
     font-size: 20px;
-    display: flex;
-    background: #bcbcbc;
+    display: inline-flex;
+    background: #d9d9d9;
+    margin: 0 310px;
     border-radius: 30px;
-}
-
-
-.links h1{
-    margin-right: 305px;
-    margin-left: 40px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+
+.inicio{
+    margin-left: 100px;
+    margin-right: 205px;
+}
+
+
+.contato{
+    margin-right: 100px;
+    margin-left: 40px;
+}
+
+
+.quemsomos, .produtos{
+    margin-right: 205px;
+    margin-left: 40px;
+}
+
+
+
+
