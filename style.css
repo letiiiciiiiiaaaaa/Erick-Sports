@@ -91,19 +91,19 @@ a:hover{
 }
 
 
-.inicio{
+#inicio{
     margin-left: 100px;
     margin-right: 205px;
 }
 
 
-.contato{
+#contato{
     margin-right: 100px;
-    margin-left: 40px;
+    margin-left: 205px;
 }
 
 
-.quemsomos, .produtos{
+#quemsomos, .produtos{
     margin-right: 205px;
     margin-left: 40px;
 }
