@@ -1,11 +1,5 @@
-body{
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
-
-
 header{
     background: #FFFFFF;
-
 }
     
 
@@ -127,4 +121,21 @@ a:hover{
     margin: 18px 290px;
     font-weight: bold;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.bordas{
+    padding-top: 100px;
+    padding-bottom: 65px;
+    display: flex;
+    gap: 70px;
+    justify-content: space-around;
+    justify-content: center;
+}
+
+
+.retangulo{
+    background-color: #f0f0f0;
+    width: 200px;
+    height: 260px;
 }
